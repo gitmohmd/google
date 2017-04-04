@@ -1,0 +1,98 @@
+header div p {
+
+float: right;
+display: inline;
+
+
+
+}
+ body img {
+
+        text-align: center;
+        margin-top: 200px;
+        width: 360px;
+        height: 164px;
+        margin-left: 270px;
+
+
+}
+
+.blabla {
+        text-align: center;
+}
+
+input {
+  width: 450px;
+  height: 36px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.gmil {
+  text-align: left;
+
+}
+
+header div p {
+  display: inline-block;
+  width: auto;
+  height: 20px;
+  margin-left: 20px;
+}
+
+
+header div .button {
+  width: auto;
+  height: 27px;
+  display: inline-block;
+  background-color: SkyBlue ;
+
+}
+.down {
+  text-align: center;
+  width: auto;
+  height: 30px;
+}
+
+
+body div p {
+  display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+footer {
+  width: auto;
+  height: 52px;
+  background-color: Gainsboro;
+  margin-top: 119px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+
+footer aside {
+  float: left;
+   display: inline-block;
+
+}
+footer aside div p {
+  display: inline-block;
+  width: auto;
+  height: 20px;
+  margin-bottom: 13px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+footer section {
+  display: inline-block;
+  width: auto;
+  height: 20px;
+  float: right;
+}
+
+footer section p {
+  display: inline-block;
+  width: auto;
+  height: 20px;
+  /*margin-top: 169px;*/
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
